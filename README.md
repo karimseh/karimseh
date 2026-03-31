@@ -20,15 +20,6 @@ My research focuses on securing Electronic Health Records using blockchain techn
 
 <table>
 <tr>
-<td><b>Research</b></td>
-<td>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FHIR-E44D26?style=flat&logo=data:image/svg+xml;base64,&logoColor=white" />
-</td>
-</tr>
-<tr>
 <td><b>Web Dev</b></td>
 <td>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -42,6 +33,8 @@ My research focuses on securing Electronic Health Records using blockchain techn
 <td><b>Blockchain</b></td>
 <td>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black" />
 </td>
