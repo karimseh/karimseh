@@ -1,8 +1,8 @@
 # Hi, I'm Karim Sehimi
 
-PhD researcher in Computer Science and freelance web developer.
+PhD researcher in Computer Science and a freelance web developer.
 
-My research focuses on securing Electronic Health Records using blockchain technology and AI. I also build modern web applications as a freelancer.
+My research focuses on securing Electronic Health Records using blockchain technology and AI. I also build modern web applications as a freelancer. 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-karimdev.me-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://karimdev.me)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-0DLibwAAAAJ&hl=en)
@@ -12,9 +12,8 @@ My research focuses on securing Electronic Health Records using blockchain techn
 ## Research Interests
 
 - Blockchain-based EHR management
-- Scalability and interoperability of health data systems
-- Zero-knowledge proofs for privacy-preserving access control
-- FHIR standards and health data integration
+- Artificial Intelligence
+- Distributed Systems
 
 ## Tech Stack
 
@@ -22,11 +21,17 @@ My research focuses on securing Electronic Health Records using blockchain techn
 <tr>
 <td><b>Web Dev</b></td>
 <td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -42,10 +47,5 @@ My research focuses on securing Electronic Health Records using blockchain techn
 </table>
 
 ## GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=karimseh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimseh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimseh&theme=tokyonight&hide_border=true" width="100%" />
