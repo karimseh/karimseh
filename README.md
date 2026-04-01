@@ -2,7 +2,7 @@
 
 PhD researcher in Computer Science and a freelance web developer.
 
-My research focuses on securing Electronic Health Records using blockchain technology and AI. I also build modern web applications as a freelancer. 
+My research focuses on the management Electronic Health Records using blockchain technology and AI. I also build modern web applications as a freelancer. 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-karimdev.me-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://karimdev.me)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-0DLibwAAAAJ&hl=en)
